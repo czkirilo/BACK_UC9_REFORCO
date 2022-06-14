@@ -1,0 +1,15 @@
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\bin\Debug\net6.0\BACK_UC9_REFORCO.exe
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\bin\Debug\net6.0\BACK_UC9_REFORCO.deps.json
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\bin\Debug\net6.0\BACK_UC9_REFORCO.runtimeconfig.json
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\bin\Debug\net6.0\BACK_UC9_REFORCO.dll
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\bin\Debug\net6.0\BACK_UC9_REFORCO.pdb
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\BACK_UC9_REFORCO.csproj.AssemblyReference.cache
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\BACK_UC9_REFORCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\BACK_UC9_REFORCO.AssemblyInfoInputs.cache
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\BACK_UC9_REFORCO.AssemblyInfo.cs
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\BACK_UC9_REFORCO.csproj.CoreCompileInputs.cache
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\BACK_UC9_REFORCO.dll
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\refint\BACK_UC9_REFORCO.dll
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\BACK_UC9_REFORCO.pdb
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\BACK_UC9_REFORCO.genruntimeconfig.cache
+C:\Users\caique\Documents\GitHub\BACK_UC9_REFORCO\obj\Debug\net6.0\ref\BACK_UC9_REFORCO.dll
